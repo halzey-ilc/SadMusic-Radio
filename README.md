@@ -1,1 +1,3 @@
-# Lo-Fi-Radio
+# Lofi-Music
+Rest and relax
+lofihiphopradio.netlify.app/
